@@ -66,12 +66,12 @@
   </build>
   <distributionManagement>
     <repository>
-      <id>deployment</id>
+      <id>admin</id>
       <name>Internal Releases</name>
       <url>http://192.168.56.45:8081/repository/sample_release/</url>
       </repository>
     <snapshotRepository>
-      <id>depolyment</id>
+      <id>admin</id>
       <name>Internal Snapshot Releases</name>
       <url>http://192.168.56.45:8081/repository/sample_snapshot/</url>
       </snapshotRepository>
