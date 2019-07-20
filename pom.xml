@@ -75,4 +75,5 @@
       <name>Internal Snapshot Releases</name>
       <url>http://192.168.56.45:8081/repository/sample_snapshot/</url>
       </snapshotRepository>
+    </distributionManagement>
 </project>
