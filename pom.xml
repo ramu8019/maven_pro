@@ -75,11 +75,4 @@
       <name>Internal Snapshot Releases</name>
       <url>http://192.168.56.45:8081/repository/sample_snapshot/</url>
       </snapshotRepository>
-    <dependencies>
-      <dependency>
-        <groupId>javax.servlet</groupId>
-        <artifactId>javax.servlet-api<artifactId>
-          <version>3.0.1</version>
-          </dependency>
-          </dependencies>
 </project>
