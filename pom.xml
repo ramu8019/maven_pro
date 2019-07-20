@@ -68,12 +68,12 @@
     <repository>
       <id>deployment</id>
       <name>Internal Releases</name>
-      <url> </url>
+      <url>http://192.168.56.45:8081/repository/sample_release/</url>
       </repository>
     <snapshotRepository>
       <id>depolyment</id>
       <name>Internal Snapshot Releases</name>
-      <url> </url>
+      <url>http://192.168.56.45:8081/repository/sample_snapshot/</url>
       </snapshotRepository>
     <dependencies>
       <dependency>
